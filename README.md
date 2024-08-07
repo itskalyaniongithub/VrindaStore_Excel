@@ -1,2 +1,2 @@
 # VrindaStore_Excel
-We try to analyse and sole vrinda store business problem using Excel.
+We try to analyse and solve vrinda store business problem using Excel.
